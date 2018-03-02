@@ -1,0 +1,18 @@
+c:\users\david\onedrive\documents\visual studio 2015\Projects\ProductRWSengD\ProductRWSengD\bin\Debug\ProductRWSengD.exe.config
+c:\users\david\onedrive\documents\visual studio 2015\Projects\ProductRWSengD\ProductRWSengD\bin\Debug\ProductRWSengD.exe
+c:\users\david\onedrive\documents\visual studio 2015\Projects\ProductRWSengD\ProductRWSengD\bin\Debug\ProductRWSengD.pdb
+c:\users\david\onedrive\documents\visual studio 2015\Projects\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.csprojResolveAssemblyReference.cache
+c:\users\david\onedrive\documents\visual studio 2015\Projects\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.frmMain.resources
+c:\users\david\onedrive\documents\visual studio 2015\Projects\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.Properties.Resources.resources
+c:\users\david\onedrive\documents\visual studio 2015\Projects\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.csproj.GenerateResource.Cache
+c:\users\david\onedrive\documents\visual studio 2015\Projects\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.exe
+c:\users\david\onedrive\documents\visual studio 2015\Projects\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.pdb
+C:\Users\David\Desktop\javaprograms\ProductRWSengD\ProductRWSengD\ProductRWSengD\bin\Debug\ProductRWSengD.exe.config
+C:\Users\David\Desktop\javaprograms\ProductRWSengD\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.exe
+C:\Users\David\Desktop\javaprograms\ProductRWSengD\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.pdb
+C:\Users\David\Desktop\javaprograms\ProductRWSengD\ProductRWSengD\ProductRWSengD\bin\Debug\ProductRWSengD.exe
+C:\Users\David\Desktop\javaprograms\ProductRWSengD\ProductRWSengD\ProductRWSengD\bin\Debug\ProductRWSengD.pdb
+C:\Users\David\Desktop\javaprograms\ProductRWSengD\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\javaprograms\ProductRWSengD\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.frmMain.resources
+C:\Users\David\Desktop\javaprograms\ProductRWSengD\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.Properties.Resources.resources
+C:\Users\David\Desktop\javaprograms\ProductRWSengD\ProductRWSengD\ProductRWSengD\obj\Debug\ProductRWSengD.csproj.GenerateResource.Cache
